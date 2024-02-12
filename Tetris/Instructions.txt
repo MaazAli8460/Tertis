@@ -1,0 +1,8 @@
+This is a crude type project. I didnt go in absolute details. Feel free to use the code for projects or learning.
+Drop a like on the repo
+
+To run the game read the ReadMe.txt and execute the commands given at the end
+The menu is a dummy menu to actually start the game just click the 'x' (close) button and the game window will open automaticly. 
+If you have inquires drop me a comment or mail me.
+
+PS: Images might not be licensed so be careful
